@@ -1,0 +1,58 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# IDE or editor-specific files
+.idea/
+.vscode/
+*.swp
+
+# Python Wheels
+*.whl
+
+# Pytest cache
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pylint
+.pylint.d/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Coverage reports
+*.coveragerc
+.coverage
+coverage.xml
+*.coveralls.yml
+
+# Environments
+.env
+.env.local
+.env.*.local
