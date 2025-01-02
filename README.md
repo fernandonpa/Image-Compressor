@@ -28,7 +28,7 @@ For example, `original_img[50, 33, 2]` gives the blue intensity of the pixel at 
 The value you get from `original_img[50, 33, 2]` will be a number between $0$ (no blue) and $255$ (maximum blue)
 
 <div style="text-align: center;">
-    <img src="images/output.png" width="380" height="400" style="display: inline-block; margin-right: 50px;">
+    <img src="images/output.png" width="400" height="400" style="display: inline-block; margin-right: 50px;">
     <img src="images/output2.png" width="480" height="400" style="display: inline-block; ">
 </div>
 <br />
@@ -64,8 +64,8 @@ The code creates a $3D$ plot showing all the colors in the original image, with 
 - Red Markers: These represent the centroids after running K-means clustering, which are the $K$ main colors chosen to compress the image.
 
 <div style="text-align: center;">
-    <img src="images/output_1.png" width="400" height="400" style="display: inline-block; margin-right: 20px;">
-    <img src="images/output2_1.png" width="400" height="400" style="display: inline-block; ">
+    <img src="images/output_1.png" width="500" height="500" style="display: inline-block; margin-right: 20px;">
+    <img src="images/output2_1.png" width="500" height="500" style="display: inline-block; ">
 </div>
 <br />
 
